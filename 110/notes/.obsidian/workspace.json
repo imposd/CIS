@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "d73ac4ab72def3c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9493b1ab74f0afe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2f4654276ad9d89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CIS 110 Ch2. Notes.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5384f0c65027ecbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7d678df643a7913",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ddcaaebb9b5e8af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea2b2625375c1e95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d8a1fba81d3a6bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "86b7d0f007b0e9be",
+    "type": "split",
+    "children": [
+      {
+        "id": "756829fd3e3100ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55426744a49eb7a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CIS 110 Ch2. Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2d4435d628e5a96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CIS 110 Ch2. Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63cae466b1c06a55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5d3801b060df487",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CIS 110 Ch2. Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b2f4654276ad9d89",
+  "lastOpenFiles": [
+    "CIS 110 Ch2. Notes.md"
+  ]
+}
